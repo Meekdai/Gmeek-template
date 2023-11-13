@@ -1,2 +1,1 @@
-# Gmeek-template
-Gmeek template repository
+### Powered by [Gmeek](https://github.com/Meekdai/Gmeek)
