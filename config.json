@@ -1,10 +1,6 @@
 {
-    "title":"Meekdai",
-    "displayTitle":"Meekdai",
-    "subTitle":"这里是我的个人博客空间。",
-    "homeUrl":"https://meekdai.github.io",
+    "title":"Blog Title",
+    "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "singlePage":[],
     "GMEEK_VERSION":"last"
 }
